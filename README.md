@@ -1,4 +1,36 @@
-### Hi there 👋
+### Hi there 👋 Karan here
+
+## About me
+
+- Enjoys Learning new technologies and problem solving!
+- Passionate Web Developer
+- :heart: Javascript, Python, React, HTML & CSS
+- Post Graduated in CS, from IIT Madras in 2021
+- I love solving riddles in my free time.
+
+## My Projects
+
+React
+- :video_game: [Minesweeper](https://github.com/karancoder/minesweeper)
+- :iphone: [Calculator](https://github.com/karancoder/calculator_react)
+
+
+Vanilla Js, HTML + CSS
+- :memo: [Todo List](https://github.com/karancoder/To-do-list) (Responsive)
+- :flower_playing_cards: [2048 Clone](https://github.com/karancoder/2048_Clone)
+- :game_die: [Wordle Clone](https://github.com/karancoder/Wordle_Clone)
+- :partly_sunny: [Weather App](https://github.com/karancoder/Weather-App) (Responsive)
+- :hourglass: [Analog Clock](https://github.com/karancoder/Analog-Clock) (Neumorphism)
+- :flower_playing_cards: [Expanding Cards](https://github.com/karancoder/Expanding-Cards) (Responsive)
+
+
+SvelteKit
+- :clapper: [Movies App](https://github.com/karancoder/movies_app)
+
+## 📫 How to reach me:
+
+- [LinkedIn](https://www.linkedin.com/in/karanjivani01)
+- [Email](mailto:jivanikaran@gmail.com)
 
 <!--
 **karancoder/karancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
