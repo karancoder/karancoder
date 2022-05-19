@@ -1,6 +1,6 @@
 ### Hi there 👋 Karan here
 
-## About me
+## Bits (:zero:/:one:) About me
 
 - Enjoys Learning new technologies and problem solving!
 - Passionate Web Developer
