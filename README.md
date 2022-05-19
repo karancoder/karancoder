@@ -17,8 +17,8 @@ React
 
 Vanilla Js, HTML + CSS
 - :memo: [Todo List](https://github.com/karancoder/To-do-list) (Responsive)
-- :flower_playing_cards: [2048 Clone](https://github.com/karancoder/2048_Clone)
-- :game_die: [Wordle Clone](https://github.com/karancoder/Wordle_Clone)
+- :game_die: [2048 Clone](https://github.com/karancoder/2048_Clone)
+- :iphone: [Wordle Clone](https://github.com/karancoder/Wordle_Clone)
 - :partly_sunny: [Weather App](https://github.com/karancoder/Weather-App) (Responsive)
 - :hourglass: [Analog Clock](https://github.com/karancoder/Analog-Clock) (Neumorphism)
 - :flower_playing_cards: [Expanding Cards](https://github.com/karancoder/Expanding-Cards) (Responsive)
