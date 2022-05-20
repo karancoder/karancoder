@@ -13,6 +13,7 @@
 React
 - :video_game: [Minesweeper](https://github.com/karancoder/minesweeper)
 - :iphone: [Calculator](https://github.com/karancoder/calculator_react)
+- :clapper: [Movies App](https://github.com/karancoder/movies_app_react)
 
 
 Vanilla Js, HTML + CSS
