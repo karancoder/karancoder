@@ -33,6 +33,14 @@ SvelteKit
 - [LinkedIn](https://www.linkedin.com/in/karanjivani01)
 - [Email](mailto:jivanikaran@gmail.com)
 
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karancoder&show_icons=true)   ![Karan's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=karancoder)  
+
+[![Karan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karancoder)](https://github.com/anuraghazra/github-readme-stats)
+
+![Karan's GitHub metrics](https://metrics.lecoq.io/karancoder)
+
+![Karan's Profile views](https://gpvc.arturio.dev/karancoder)
+
 <!--
 **karancoder/karancoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
